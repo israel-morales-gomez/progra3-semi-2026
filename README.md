@@ -19,3 +19,5 @@ enfermero :
 04567891-1 -- dui
 ClaveSegura1 contrasena 
 
+
+http://localhost:8000/profesional/registro (ruta de registro para profesionales)
